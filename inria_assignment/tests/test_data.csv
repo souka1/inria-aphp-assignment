@@ -1,0 +1,5 @@
+,patient_id,given_name,surname,street_number,address_1,suburb,postcode,state,date_of_birth,age,phone_number,address_2,pcr
+1485,924690,giuliana,robsgn,12,federal zighway,dandenong north,2165,qld,19801228,32,02 54377445,marungi park,Negative
+12274,158601,giulina,robson,13,federal iqhway,dandenong north,2165,qld,19801228,32,02 54377445,marungi park,Negative
+13306,301587,giuliana,robson,13,federal highway,dandenong north,2165,qld,19801228,32,02 54377445,marungi park,Negative
+13406,233964,giuliaaa,robson,13,federal highway,dandenong north,2165,qld,19820228,32,02 54377445,marungi park,Positive
